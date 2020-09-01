@@ -1,6 +1,9 @@
 # portal-berita
 this is frontend about portal-news, created with Bootstrap 4.5
 
+# screenshot
+https://imgur.com/a/u8NsGaF
+
 # How to download this
 1 . Click button code with green color <br>
 2 . git clone https://github.com/mzulfanw/portal-berita.git <br>
