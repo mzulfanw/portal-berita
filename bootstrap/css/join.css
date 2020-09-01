@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    width: 100%;
+    background: #7474BF;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #348AC7, #7474BF);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #348AC7, #7474BF);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.kotak {
+
+    padding: 10px;
+    margin: auto;
+    margin-top: 10%;
+    width: 50%;
+}
+
+.form-login .row .col-md-4 .label {
+    font-size: 20px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    width: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}

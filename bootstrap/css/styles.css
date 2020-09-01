@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    width: 100%;
+
+    background:
+        radial-gradient(circle at 100% 50%, transparent 20%, #00D4F0 21%,
+            #00D4F0 34%, transparent 35%, transparent),
+        radial-gradient(circle at 0% 50%, transparent 20%, #00D4F0 21%, #00D4F0 34%, transparent 35%, transparent) 0 -50px;
+    background-color: #EEEEEE;
+    background-size: 75px 100px;
+}
+
+.scroll .view {
+    color: #000000;
+}
+
+
+.container {
+
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.header {
+
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.kotak {
+    width: 50%;
+    margin: auto;
+    background: #ffffff;
+}
+
+.header .logo span {
+    float: left;
+
+}
+
+.header .navigation {
+    float: right;
+}
+
+.header .navigation li {
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 15px;
+    text-decoration: none;
+    display: block;
+}
+
+.footer {
+    margin-top: 100px;
+}
